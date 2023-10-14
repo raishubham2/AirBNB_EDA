@@ -7,3 +7,5 @@ Airbnb is considered to be an online marketplace where people are able to connec
 The goal of the project - The purpose of the project is to gather information and analyze the detailed information of the different bookings in the neighborhood groups in order to provide insights about the bookings in a particular area as per your preference, type of rooms, and price accordingly.
 We have tried discovering relationships among different columns and found meaningful insights to decipher business impacts.
 Here we have the datset of around 49,000 observations with 16 columns and it is a combination of categorical and numeric
+
+Problem Statement
